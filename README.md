@@ -7,8 +7,8 @@
          width="60" />I'm Debarchan
 </h1>
 
-<h4 align="center">A 3rd year student pursuing my Bachelors’s in Electronics and Communication Engineering,<br>from Silicon Institute of Technology,Bhubaneswar.<br>I am a Linux and IoT enthusiast & Web Developer.
-</h4>
+<p align="center">A <strong>3rd year</strong> student pursuing my <strong>Bachelors’s</strong> in <strong>Electronics and Communication Engineering</strong>,<br>from <strong>Silicon Institute of Technology,Bhubaneswar</strong>.<br>I am a <strong>Web Developer</strong>,<strong>Linux and IoT enthusiast</strong>.
+</p>
 
 
 
