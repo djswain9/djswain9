@@ -22,7 +22,7 @@
 
 
 
-<h2> <img src="https://github.com/djswain9/djswain9/blob/main/gif/aboutMe.webp" height="60" width="130" /> </h2>
+<h2> <img src="https://github.com/djswain9/djswain9/blob/main/gif/aboutMe.webp" height="60" width="130" alt="About Me"/> </h2>
 
 
 - 🔭 I’m currently working on my skills.
