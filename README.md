@@ -45,9 +45,7 @@ I am a Linux and IoT enthusiast & Web Developer.
 <h3 align="center">Connect with me:</h3>
 <br>
 <p align="center">
-<a href="https://twitter.com/DebarchanSwain9" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="DebarchanSwain9" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-         
-<a href="https://www.linkedin.com/in/debarchan-swain-0511a2191/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Debarchan Swain" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-         
+<a href="https://twitter.com/DebarchanSwain9" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="DebarchanSwain9" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;       
+<a href="https://www.linkedin.com/in/debarchan-swain-0511a2191/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Debarchan Swain" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;    
 <a href="https://www.instagram.com/debarchan_swain/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="debarchan_swain" height="50" width="50" /></a>
 </p>
