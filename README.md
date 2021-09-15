@@ -20,11 +20,11 @@ I am a Linux and IoT enthusiast & Web Developer.
 
 - 🔭 I’m currently working on my skills.
 
-- 💬 Ask me about Linux and IOT.
+- 💬 Ask me about **Linux** and **IoT**.
 
-- 🌱 I’m currently learning Bash Scripting and Web Develoment.
+- 🌱 I’m currently learning **Bash Scripting** and **Web Develoment**.
 
-- 📫 Contact me here: debarchanswain123@gmail.com
+- 📫 Contact me here: **debarchanswain123@gmail.com**
 
 <br>
 
@@ -37,6 +37,7 @@ I am a Linux and IoT enthusiast & Web Developer.
 | <img align="center" src="https://github-readme-stats-pat-3.vercel.app/api?username=djswain9&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Debarchan Swain's github stats" /> | <img align="center" src="https://github-readme-stats-pat-3.vercel.app/api/top-langs/?username=djswain9&layout=defult&theme=radical&hide_border=true" /> |
 | ------------- | ------------- |
 
+**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
 
 
