@@ -34,8 +34,9 @@ I am a Linux and IoT enthusiast & Web Developer.
 <h2>My Github Stats <img src="https://media3.giphy.com/media/ZOKhyP4ai1guMHhwFB/giphy.gif?cid=ecf05e47jldu0czq7hzh6vxv694idc5bscx563lb0idptlno&rid=giphy.gif&ct=s" height="20" width="25" /></h2>
 <br>
   
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=djswain9&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Debarchan Swain's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djswain9&layout=defult&theme=radical&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats-pat-3.vercel.app/api?username=djswain9&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Debarchan Swain's github stats" /> | <img align="center" src="https://github-readme-stats-pat-3.vercel.app/api/top-langs/?username=djswain9&layout=defult&theme=radical&hide_border=true" /> |
 | ------------- | ------------- |
+
 <br>
 
 
