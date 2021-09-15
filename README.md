@@ -11,3 +11,19 @@
         A 3rd year student pursuing my Bachelors’s in Electronics and Communication Engineering, from Silicon Institute of Technology.<br>
 I am a Linux and IoT enthusiast & Web Developer.
 </h4>
+
+
+
+
+<h2> <img src="https://media4.giphy.com/media/ZbH8qLL8vHXBjrBuO7/giphy.gif?cid=ecf05e47mtc1ilybozms77jo6x0ltmk7dhgc5dyckvyz5sb0&rid=giphy.gif&ct=ts" height="60" width="130" /> </h2>
+
+
+- 🔭 I’m currently working on my skills.
+
+- 💬 Ask me about Linux and IOT.
+
+- 🌱 I’m currently learning Bash Scripting and Web Develoment.
+
+- 📫 Contact me here: debarchanswain123@gmail.com
+
+<br>
