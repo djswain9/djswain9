@@ -1,5 +1,14 @@
 <!--![Website](https://komarev.com/ghpvc/?username=djswain9&label=Profile%20views&color=0e75b6&style=flat)-->
-![Website](https://img.shields.io/github/followers/djswain9?style=social)
+<!--![Website](https://img.shields.io/github/followers/djswain9?style=social)-->
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=djswain09&label=Profile%20views&color=0e75b6&style=flat" alt="Total Profile Views" />
+<img src="https://img.shields.io/github/followers/djswain09?style=social" alt="Total followers on github" />
+</p>         
+
+
+
+
+
 
 <h1 align="center"><img src="https://github.com/djswain9/djswain9/blob/main/gif/hi.webp" 
          alt="Hi"
