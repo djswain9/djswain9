@@ -41,7 +41,7 @@
 
 
 
-<h4 align="center">Connect with Me<img src="https://media0.giphy.com/media/bhmFrO4cMVgo4zzwUL/200w.webp?cid=ecf05e4773zr7k3ai6gvyt8otd44ifr4s4mey4ju42funb6k&rid=200w.webp&ct=s" height="40" width="45"/></h4>
+<h4 align="center">{ Connect with Me<img src="https://media0.giphy.com/media/bhmFrO4cMVgo4zzwUL/200w.webp?cid=ecf05e4773zr7k3ai6gvyt8otd44ifr4s4mey4ju42funb6k&rid=200w.webp&ct=s" height="40" width="45"/>}</h4>
 <br>
 <p align="center">
 <a href="https://twitter.com/DebarchanSwain9" target="_blank"><img align="center" src="https://media0.giphy.com/media/MUic6gGA4OkwgsozUu/giphy.gif?cid=ecf05e47h05egx8nmtr51e2csx6eexwn3zglnzh8w94yelme&rid=giphy.gif&ct=s" alt="DebarchanSwain9" height="90" width="90" /></a> &nbsp;&nbsp;&nbsp;
