@@ -50,7 +50,7 @@
 <br>
 
 
-<p align="center"><img src="https://media3.giphy.com/media/SFqXvY4CRT7sFzWYaN/200w.webp?cid=ecf05e47ddhkjomijt0777qxtzh7yrcb9q4t89cnpybehj2q&rid=200w.webp&ct=s" width="150px" height="100px"/></p>
+<p align="center"><img src="https://github.com/djswain9/djswain9/blob/main/gif/followme.webp" width="150px" height="100px"/></p>
 <p align="center">
 <a href="https://twitter.com/DebarchanSwain9" target="_blank"><img align="center" src="https://github.com/djswain9/djswain9/blob/main/gif/twitter.webp" alt="DebarchanSwain9"  width="15%" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/debarchan-swain-0511a2191/" target="_blank"><img align="center" src="https://github.com/djswain9/djswain9/blob/main/gif/linkedin.webp" alt="Debarchan Swain" width="15%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
