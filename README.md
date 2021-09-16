@@ -53,8 +53,8 @@
 <h3 align="center">{ Connect with Me<img src="https://github.com/djswain9/djswain9/blob/main/gif/now.webp" height="45" width="50"/>}</h3>
 <br>
 <p align="center">
-<a href="https://twitter.com/DebarchanSwain9" target="_blank"><img align="center" src="https://github.com/djswain9/djswain9/blob/main/gif/twitter.webp" alt="DebarchanSwain9" height="90" width="90" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/debarchan-swain-0511a2191/" target="_blank"><img align="center" src="https://github.com/djswain9/djswain9/blob/main/gif/linkedin.webp" alt="Debarchan Swain" height="90" width="90" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/debarchan_swain/" target="_blank"><img align="center" src="https://github.com/djswain9/djswain9/blob/main/gif/instagram.webp" alt="debarchan_swain" height="90" width="90" /></a>
+<a href="https://twitter.com/DebarchanSwain9" target="_blank"><img align="center" src="https://github.com/djswain9/djswain9/blob/main/gif/twitter.webp" alt="DebarchanSwain9"  width="15%" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/debarchan-swain-0511a2191/" target="_blank"><img align="center" src="https://github.com/djswain9/djswain9/blob/main/gif/linkedin.webp" alt="Debarchan Swain" width="15%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/debarchan_swain/" target="_blank"><img align="center" src="https://github.com/djswain9/djswain9/blob/main/gif/instagram.webp" alt="debarchan_swain" width="15%" /></a>
 </p>
 
