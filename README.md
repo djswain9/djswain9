@@ -62,6 +62,6 @@
 <hr>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=6C9FF5&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Now+we+both+probably+need+to+get+back+to+coding+💻.;Hope+you+enjoy!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=1F6EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Now+we+both+probably+need+to+get+back+to+coding+💻.;Hope+you+enjoy!" />
 </p>
 
