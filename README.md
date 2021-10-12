@@ -67,6 +67,6 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=1F6EEA&size=23&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Let's+get+back+to+coding+😎." />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=1F6EEA&size=22&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Let's+get+back+to+coding+😎." />
 </p>
 
