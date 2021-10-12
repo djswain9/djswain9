@@ -1,5 +1,8 @@
-<!--![Website](https://komarev.com/ghpvc/?username=djswain09&label=Profile%20views&color=0e75b6&style=flat)-->
-<!--![Website](https://img.shields.io/github/followers/djswain09?style=social)-->
+<p align="center">
+  <img src="https://github.com/djswain9/djswain9/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=djswain9&label=Profile%20views&color=0e75b6&style=flat" alt="Total Profile Views" />
@@ -58,17 +61,12 @@
 <a href="https://www.instagram.com/debarchan_swain/" target="_blank"><img align="center" src="https://github.com/djswain9/djswain9/blob/main/gif/instagram.webp" alt="debarchan_swain" width="15%" /></a>
 </p>
 
-<br>
+<br><br>
 
 
 
-<hr>
-<p align="center">
-  <img src="https://github.com/djswain9/djswain9/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-<hr>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=1F6EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Let's+get+back+to+coding+😎." />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=1F6EEA&size=23&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Let's+get+back+to+coding+😎." />
 </p>
 
