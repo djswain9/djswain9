@@ -35,7 +35,7 @@
 
 - 💬 Ask me about <code><strong>Linux</code></strong> and <code><strong>IoT</strong></code>.
 
-- 🌱 I’m currently learning <code><strong>Bash Scripting</strong></code> and <code><strong>Web Develoment</strong></code>.
+- 🌱 I’m currently learning <code><strong>JAVA</strong></code> and <code><strong>VLSI</strong></code>.
 
 - 📫 Contact me here: **debarchanswain123@gmail.com**
 
