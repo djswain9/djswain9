@@ -19,7 +19,7 @@
          width="60" />I'm Debarchan
 </h1>
 
-<p align="center">A <strong>4th year</strong> student pursuing my <strong>Bachelors’s</strong> in <code><strong>Electronics and Communication Engineering</strong></code>,<br>from <strong>Silicon Institute of Technology,Bhubaneswar</strong>.<br>I am a <code><strong>VLSI</strong></code>,<code><strong>Linux and IoT enthusiast</strong></code>.
+<p align="center">A <strong>4th year</strong> student pursuing my <strong>Bachelors’s</strong> in <code><strong>Electronics and Communication Engineering</strong></code>,<br>from <a href="https://silicon.ac.in/"><strong>Silicon Institute of Technology,Bhubaneswar</strong></a>.<br>I am a <code><strong>VLSI</strong></code>,<code><strong>Linux and IoT enthusiast</strong></code>.
 </p>
 
 
