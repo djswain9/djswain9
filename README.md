@@ -19,7 +19,7 @@
          width="60" />I'm Debarchan
 </h1>
 
-<p align="center">A <strong>3rd year</strong> student pursuing my <strong>Bachelors’s</strong> in <code><strong>Electronics and Communication Engineering</strong></code>,<br>from <strong>Silicon Institute of Technology,Bhubaneswar</strong>.<br>I am a <code><strong>Web Developer</strong></code>,<code><strong>Linux and IoT enthusiast</strong></code>.
+<p align="center">A <strong>4th year</strong> student pursuing my <strong>Bachelors’s</strong> in <code><strong>Electronics and Communication Engineering</strong></code>,<br>from <strong>Silicon Institute of Technology,Bhubaneswar</strong>.<br>I am a <code><strong>VLSI</strong></code>,<code><strong>Linux and IoT enthusiast</strong></code>.
 </p>
 
 
@@ -33,9 +33,9 @@
 
 - 🔭 I’m currently working on my skills.
 
-- 💬 Ask me about <code><strong>Linux</code></strong> and <code><strong>IoT</strong></code>.
+- 💬 Ask me about <code><strong>VLSI</code></strong> and <code><strong>LINUX</strong></code>.
 
-- 🌱 I’m currently learning <code><strong>JAVA</strong></code> and <code><strong>VLSI</strong></code>.
+- 🌱 I’m currently learning <code><strong>PYTHON</strong></code> and <code><strong>VLSI</strong></code>.
 
 - 📫 Contact me here: **debarchanswain123@gmail.com**
 
